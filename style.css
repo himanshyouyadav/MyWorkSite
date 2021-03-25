@@ -448,5 +448,7 @@ header.sticky ul li a{
    }
      .w50 .img{
        margin-left: 20px;
+       height:100px;
+       width:100px;
    }
 }
