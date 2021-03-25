@@ -444,4 +444,10 @@ header.sticky ul li a{
         margin-left: auto;
         margin-right: auto;
     }
+    .work{
+       padding: 100px 0px;
+   }
+   .workText{
+        padding: 10px 50px;
+   }
 }
