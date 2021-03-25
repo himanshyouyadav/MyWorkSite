@@ -446,4 +446,7 @@ header.sticky ul li a{
    .workText{
         padding: 10px 50px;
    }
+     .w50 .img{
+       margin-left: 20px;
+   }
 }
