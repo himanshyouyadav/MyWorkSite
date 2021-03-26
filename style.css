@@ -455,7 +455,7 @@ header.sticky ul li a{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 50px;
-    width: 100px;
+    height: 100px;
+    width: 200px;
    }
 }
